@@ -1,0 +1,20 @@
+{
+  "name": "iwarranty",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc & node dist/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.16"
+  },
+  "description": ""
+}
